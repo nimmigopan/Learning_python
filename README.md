@@ -1,4 +1,5 @@
-# Learning_python
+# Learning_python    ![python logo](https://github.com/nimmigopan/Learning_python/assets/35449494/f76ca65a-874f-45c2-90c3-7203a2cf1621)
+
 
 ## Why Python is widely used in data science?
 
